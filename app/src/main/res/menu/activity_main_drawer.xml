@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_camera"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="श्री कपालेश्वर महादेव" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+        <item
+            android:id="@+id/nav_slideshow"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Slideshow" />
+        <item
+            android:id="@+id/nav_ekmukhi"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tools" />
+        <item
+            android:id="@+id/saptashrungi"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Saptashrungi Devi Temple Vani" />
+        <item
+            android:id="@+id/karanji"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="करंजी देवस्थान" />
+        <item
+            android:id="@+id/sarvateerth"
+            android:icon="@drawable/ic_menu_share"
+            android:title="Sarvateerth Taaked" />
+        <item
+            android:id="@+id/kapildhara"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Kapildhara Tirth" />
+        <item
+            android:id="@+id/navshyaganapati"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Navshya Ganapati" />
+    </group>
+
+    <!--<item >-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--&lt;!&ndash;android:id="@+id/sarvateerth"&ndash;&gt;-->
+                <!--&lt;!&ndash;android:icon="@drawable/ic_menu_share"&ndash;&gt;-->
+                <!--&lt;!&ndash;android:title="Sarvateerth Taaked" />&ndash;&gt;-->
+            <!--&lt;!&ndash;<item&ndash;&gt;-->
+                <!--&lt;!&ndash;android:id="@+id/kapildhara"&ndash;&gt;-->
+                <!--&lt;!&ndash;android:icon="@drawable/ic_menu_send"&ndash;&gt;-->
+                <!--&lt;!&ndash;android:title="Kapildhara Tirth" />&ndash;&gt;-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>
